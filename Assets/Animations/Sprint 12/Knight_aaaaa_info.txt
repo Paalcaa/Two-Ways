@@ -1,0 +1,17 @@
+version: 2
+type: animation
+name: Sprint
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 10
+0	Sprint_000.png
+1	Sprint_001.png
+2	Sprint_002.png
+3	Sprint_003.png
+4	Sprint_004.png
+5	Sprint_005.png
+6	Sprint_006.png
+7	Sprint_007.png
+8	Sprint_008.png
+9	Sprint_009.png
